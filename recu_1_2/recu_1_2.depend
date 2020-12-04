@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1607041591 source:c:\users\alumno_invitado\desktop\recu_1_2\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"cliente.h"
+	"alquiler.h"
+
+1607043249 source:c:\users\alumno_invitado\desktop\recu_1_2\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1607041591 c:\users\alumno_invitado\desktop\recu_1_2\cliente.h
+
+1607043132 source:c:\users\alumno_invitado\desktop\recu_1_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"alquiler.h"
+	"equipo.h"
+
+1607040853 c:\users\alumno_invitado\desktop\recu_1_2\alquiler.h
+
+1607039786 source:c:\users\alumno_invitado\desktop\recu_1_2\input.c
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1607039786 c:\users\alumno_invitado\desktop\recu_1_2\input.h
+
+1607043132 source:c:\users\alumno_invitado\desktop\recu_1_2\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"equipo.h"
+
+1607042793 source:c:\users\alumno_invitado\desktop\recu_1_2\equipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"equipo.h"
+
+1607042450 c:\users\alumno_invitado\desktop\recu_1_2\equipo.h
+
